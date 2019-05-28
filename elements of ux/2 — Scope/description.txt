@@ -1,0 +1,12 @@
+• Requirements
+• User Stories
+• User Scenarios
+
+1. Write out some User Scenarios based on the user personas
+2. Make User Stories based on User Scenarios
+3. Analyze User Stories and augment them with information and acceptance tests.
+    • Impose a decision on the implementation
+    • Decide on the context of the user story
+        ◦ For example: is "Mary had a little lamb" about eating lamb or a nursery rhyme?
+    • Create acceptance tests for the stories
+4. Rank/Prioritize the User Stories (MoSCoW)

@@ -1,0 +1,27 @@
+• Mind Map
+• Concept Map
+• Task Flow Diagrams
+• User Flow Diagrams
+
+
+
+1. Organize User Stories/Requirements into a mind map
+    • Related concepts should be grouped together, as they might either be on
+      the same screen or be linked together (you click on one to get to the other).
+2. Organize the Mind Map into a Concept Map by making structural decisions
+    • For example: should an item be in the navbar, bottom drawer, header, footer,
+                   main content section, etc.
+3. Arrage the concept map into task flow diagrams
+    • A high-level view of a task; generally just which pages are visited or basic actions.
+    • Common to all users, rather than specific to certain types of them.
+4. Make user flow diagrams using the: task flow diagrams, concept maps, user needs, user personas,
+   and user needs.
+    • The user flow diagrams represent complex user interactions.
+    • Specific to certain user types/personas.
+   
+   
+   
+   
+More information: 
+
+     • Task Flows vs User Flows: https://medium.com/erika-harano/ux-task-flows-versus-user-flows-as-demonstrated-by-pancakes-896e78a98026
