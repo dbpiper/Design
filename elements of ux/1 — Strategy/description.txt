@@ -2,3 +2,9 @@
 • What is the purpose of the project, what value is it providing?
 • Who are the users?
 • How can we improve their lives with our project?
+• Jobs-to-be-done Theory (JTBD)
+• Job/Outcome Story Template
+
+1. Create Job/Outcome Story Templates
+    • Create one of these for each possible job which can be done with the
+      product. Ideally there should be as many as possible, at least a handful.
