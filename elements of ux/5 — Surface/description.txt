@@ -2,7 +2,7 @@
 • UI Motion Design
 
 1  Use the High-fidelity Wireframe created as part of the Skeleton phase to
-   create the UI mockup.
+   create the UI mock-up.
    • This represents the specification. That is it is the digital version
      of a blueprint; the finished product should match it exactly! In other
      words, this is the object which represents the requirements and the
