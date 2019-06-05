@@ -3,6 +3,11 @@
 • User Scenarios
 
 1. Write out some User Scenarios based on the jobs to be done.
+    • Make some mini-User Personas for these, which helps to add personality
+      to the user scenarios. Each should have:
+        ◦ A photo (https://www.pexels.com is great)
+        ◦ A job title/profession or user role
+        ◦ A name (https://www.behindthename.com/random/ is great)
 2. Make User Stories based on User Scenarios
 3. Analyze User Stories and augment them with acceptance tests.
     • Create acceptance tests for the stories
