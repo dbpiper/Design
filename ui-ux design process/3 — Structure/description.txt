@@ -1,0 +1,34 @@
+• Mind Map
+• Concept Map
+• Task Flow Diagrams
+• User Flow Diagrams
+• Requirements Map
+• Sitemap
+• Interaction Map
+
+
+
+1. Make a Requirements Map by organizing User Stories/Requirements into a mind map
+    • Related concepts should be grouped together, as they might either be on
+      the same screen.
+2. Make an Interaction Map if the project is very dynamic and has many interactions
+   else if the project is very static (like a portfolio) then make a Site map or App map
+   based on the user stories map.
+3. Make task flow diagrams for the main tasks to ensure that the flow of the
+   interaction map is good.
+    • A high-level view of a task; generally just which pages are visited or basic actions.
+    • Common to all users, rather than specific to certain types of them.
+    • This can be prototyped simply using a similar method to the low-fidelity
+      wireframe, where different ideas are sketched out and the best chosen.
+4. As needed, make user flow diagrams for any task flows that "seem too long",
+   in order to try to find ways to simplify them.
+    • The user flow diagrams represent complex user interactions.
+    • Specific to certain user types/personas.
+    • Used to find problems with the flow of the site and tasks.
+   
+   
+   
+   
+More information: 
+
+     • Task Flows vs User Flows: https://medium.com/erika-harano/ux-task-flows-versus-user-flows-as-demonstrated-by-pancakes-896e78a98026

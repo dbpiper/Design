@@ -1,0 +1,17 @@
+• Identify user needs.
+• What is the purpose of the project, what value is it providing?
+• Who are the users?
+• How can we improve their lives with our project?
+• Jobs-to-be-done Theory (JTBD)
+• Job/Outcome Story Template
+
+1  Create a mind map to brainstorm and figure out:
+    • Who the users might be?
+    • Why they want to use the product?
+    • Where would it work best: mobile, desktop, tablet, watch, etc.?
+    • What is the core functionality that will be provided; value proposition?
+    • Keep asking why at each stage. Why are they wanting to use your application,
+      why do they want to do what they want to do with the application, etc.
+2  Create Job/Outcome Story Templates using the information from the mind map
+    • Create one of these for each possible job which can be done with the
+      product. Ideally there should be as many as possible, at least a handful.
