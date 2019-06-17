@@ -1,12 +1,34 @@
 • UI Mockup
 • UI Motion Design
 
+
 1  Use the High-fidelity Wireframe created as part of the Skeleton phase to
    create the UI mock-up.
    • This represents the specification. That is it is the digital version
      of a blueprint; the finished product should match it exactly! In other
-     words, this is the object which represents the requirements and the
+     words, this is the object which expresses the requirements and the
      way they will be satisfied.
+   
+   The Mockup should be created in two stages:
+     i  Begin creating the UI Mockup by carefully analyzing the High-fidelity
+        Wireframe and organizing it into Figma components (or equivalent in the
+        relevant software) and putting those into screens/frames for each of the
+        pieces of Atomic design (Atoms, Molecules, etc.). 
+       
+        This is the Organize phase of the Mockup.
+        
+     ii Do the Design phase of the Mockup by going through and actually doing 
+        all of the usual UI design pieces: typography, color, icons, etc.
+        
+        
+        
+    I have decided to splint this up as I noticed that before I could work on
+    the UI design part of the Mockup I had to go through and carefully
+    organize everything first. This is because I let the Wireframe/Skeleton
+    process be very free-form and messy in-exchange for much more creativity
+    and a better layout overall.
+   
+  
 2  Create any needed UI Motion Design.
    • See the book "Designing Interface Animaion" by Val Head for more information.
    • These should be in the form of MP4 files.
