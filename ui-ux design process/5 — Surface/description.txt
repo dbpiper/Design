@@ -22,7 +22,7 @@
   
 3  Create any needed UI Motion Design.
    • See the book "Designing Interface Animaion" by Val Head for more information.
-   • These should be in the form of MP4 files.
+   • These should be in the form of MP4 files _and_ GIF files.
    • These should be accompanied by documentation
      ◦ See especially Chapters 10 and 11.
      ◦ The purpose of the animation. What is it telling the user?

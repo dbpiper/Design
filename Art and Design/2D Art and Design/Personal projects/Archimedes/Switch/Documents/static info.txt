@@ -1,0 +1,18 @@
+Actual object:
+
+• There is 15px of padding on the inside of the track on the sides.
+• There is 14px of padding on the inside of the track on the top and bottom.
+• The thumb is a circle with a radius of 60px.
+• The track has a width of 163px and a height of 88px.
+• The track has a border radius of 99px (completely rounded).
+• The track uses the secondary dark color when off.
+• The track uses the primary color when on.
+• The thumb uses the on primary color.
+• The hover and click circles have a radius of 120px.
+• The hover circle has a color of primary dark, with a transparency of 25%.
+• The click circle has a color of primary dark, with a transparency of 50%.
+
+Exaggerated animation object:
+
+• All sizes are 200% of normal for demonstration purposes in the animation.
+  This _only_ applies to the video, _not_ what should actually be implemented!!

@@ -1,0 +1,35 @@
+Brand colors:
+    Primary colors: (60% of total color)
+            • #
+    Secondary colors: (30% of total color)
+            • #
+    
+2  Accent colors: (10% of total color)
+        • #
+
+3  Semantic colors:
+        • Red for error, danger, wrong — #
+        • Green for success, safe, right — #
+        • Yellow or Orange for alert, caution, warning — #
+        • Blue for information — #
+    
+    
+4  Neutral colors:
+        Background — #
+        
+        
+        
+        
+        
+        
+        
+Resources:
+    • Color mixer (like paint mixing): https://www.imgonline.com.ua/eng/color-mixing.php
+    • Color wheel: https://paletton.com/
+    • Color contrast checker 1: https://snook.ca/technical/colour_contrast/colour.html
+    • Color contrast checker 2: https://webaim.org/resources/contrastchecker/
+    • Color names 1: https://encycolorpedia.com/
+    • Color names 2: http://www.color-blindness.com/color-name-hue/
+    • Color names 3: http://chir.ag/projects/name-that-color/
+    • Tints and shades of a color: https://maketintsandshades.com
+    
