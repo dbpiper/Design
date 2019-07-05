@@ -1,7 +1,7 @@
 Animations:
     • Hover circle
         ◦ Static properties 
-            ■ Circle radius — 120px.
+            ■ Circle radius — 42px or 28px (depending on if Switch1 or Switch2)
         ◦ Animated properties
             ■ Opacity
                 □ Keyframes
@@ -27,10 +27,10 @@ Animations:
             ■ Position
                 □ Keyframes
                     • 0%
-                        ◦ 15px from the left
+                        ◦ 6px or 4px from the left (depending on if Switch1 or Switch2)
                         ◦ Easing curve — Bouncy Quint Out: cubic-bezier(0.22, 1.00, 0.36, 1.50)
                     • 100%
-                        ◦ 15px from the right
+                        ◦ 6px or 4px from the right (depending on if Switch1 or Switch2)
                 □ Duration     — 1/3 of a second (333.3 ms)
                 □ Triggered by — User hovers clicks the switch; after the click circle animation finishes.
             ■ Color
